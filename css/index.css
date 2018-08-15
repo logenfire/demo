@@ -1,0 +1,15 @@
+/*
+* @Author: Administrator
+* @Date:   2018-08-15 15:01:07
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-08-15 15:01:07
+*/
+*{
+	margin: 0;
+	height: 0;
+}
+div{
+	height: 200px;
+	width: 200px;
+	background-color: red;
+}
